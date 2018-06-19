@@ -36,7 +36,7 @@ Write out the relationships using has_many, belongs_to and has_many_through. Cre
   - #dessert
     - should return a dessert object for that ingredient
   - #bakery
-    - should return the bakery object for the bakery that uses that ingredient
+    - shn the bakery object for the bakery that uses that ingredient
   - .all
     - should return an array of all ingredients
   - .find_all_by_name(ingredient)
